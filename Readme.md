@@ -153,7 +153,7 @@ PASS030 → ROLLBACK
 
 This demonstrates how transaction control commands ensure database reliability and consistency.
 
-📚 DBMS Concepts Demonstrated
+ DBMS Concepts Demonstrated
 ER Modeling
 Relational Database Design
 Primary Keys
