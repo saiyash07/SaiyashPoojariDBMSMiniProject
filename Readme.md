@@ -1,5 +1,9 @@
  Toll Management System
+
+ 
  Saiyash Poojari (150096725136)
+
+ 
  Project Overview
 
 The Toll Management System is a PostgreSQL-based database project developed to manage toll plaza operations efficiently. The system stores information about vehicles, FASTags, recharges, toll plazas, lanes, and toll transactions. It demonstrates core DBMS concepts such as ER modeling, schema design, normalization, SQL queries, joins, subqueries, constraints, and transaction management.
